@@ -1,0 +1,14 @@
+.sublist{
+    list-style: circle;
+    margin-left: 30px;
+}
+.cont{
+    list-style: decimal;
+}
+.none_style{
+    list-style: none;
+}
+.space{
+    list-style: none;
+    margin-left: 30px;
+}
